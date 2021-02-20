@@ -8,7 +8,7 @@ Dataset downloaded from: https://www.kaggle.com/tongpython/cat-and-dog
 2000 images for testing
 
 # Results
-87% accuracy
+90% accuracy
 
 # Directory
 Make sure to place the dataset in the following directory:
