@@ -2,6 +2,14 @@
 
 Dataset downloaded from: https://www.kaggle.com/tongpython/cat-and-dog
 
+### Training and Validation
+
+8000 images for training
+2000 images for testing
+
+# Results
+87% accuracy
+
 # Directory
 Make sure to place the dataset in the following directory:
 
